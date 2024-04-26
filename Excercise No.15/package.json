@@ -1,0 +1,15 @@
+{
+  "name": "excercise-no.15",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Rehman Ali",
+  "license": "ISC",
+  "keywords": [],
+  "description": "",
+  "devDependencies": {
+    "@types/node": "^20.12.7"
+  }
+}
